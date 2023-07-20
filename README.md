@@ -7,8 +7,8 @@
   <a href="https://twitter.com/Maroutis"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<h1 align="center">Below are my hackathons contributions</h1>
-<a href="https://devpost.com/MMtis?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav/"><img src="./images/devpost.png"></a>
+<h1 align="center">Below are my hackathons contributions
+<a href="https://devpost.com/MMtis?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav/"><img src="./images/devpost.png"></a></h1>
 
 <!-- --- -->
 
