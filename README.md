@@ -126,7 +126,7 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 
 #### Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course By Patrick Collins
 
-#### (Click On Them in order to Verify - Address => 0xC24D24973C3E2f0025bA5C1e5B3CCa6Dc1b3C7b1)
+#### (Click On Them in order to Verify - Address (Arbitrum) => 0xC24D24973C3E2f0025bA5C1e5B3CCa6Dc1b3C7b1)
 
 <p align="center">
 <a href="https://opensea.io/assets/arbitrum/0xaacb0b62aeb7db938f12161da0e45fc3b2b34179/300"><img src="./images/Bbasics.avif" width="33%"></a>
@@ -137,6 +137,14 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 </p>
 
 ---
+
+#### Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023 – 27-Hour Course By Patrick Collins
+
+#### (Click On Them in order to Verify - Address (Sepolia) => 0xfD7059Cf48Ef2417a1b6Eeac9A77b6CA2D94A34e)
+
+<p align="center">
+<a href="https://testnets.opensea.io/fr/assets/sepolia/0x76b50696b8effca6ee6da7f6471110f334536321/1212"><img src="./images/Foundry - Completed.avif" width="60%"></a>
+</p>
 
 ### If you like my open source work and want to support me then donate here, Thanks!
 
