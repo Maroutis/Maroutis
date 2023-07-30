@@ -138,7 +138,7 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 
 ---
 
-#### Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023 – 27-Hour Course By Patrick Collins
+#### Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI | Foundry Edition 2023 – 27-Hour Course By Patrick Collins
 
 #### (Click On Them in order to Verify - Address (Sepolia) => 0xfD7059Cf48Ef2417a1b6Eeac9A77b6CA2D94A34e)
 
