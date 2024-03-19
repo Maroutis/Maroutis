@@ -8,8 +8,7 @@
 </p>
 
 <h1 align="center">Below are my hackathons contributions
-  <a href="https://devpost.com/MMtis?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav/"><img src="./images/devpost.png"></a></h1>
-<a href="/"><img src="./images/devpost.png"></a></h1>
+<a href="https://devpost.com/MMtis?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav/"><img src="./images/devpost.png"></a></h1>
 
 <!-- --- -->
 
