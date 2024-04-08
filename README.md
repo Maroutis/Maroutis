@@ -56,7 +56,7 @@
 
 <a href="https://devpost.com/MMtis?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav/"><img src="./images/devpost.png"></a></span>
 
----
+<!-- --- -->
 
 <!-- # <span style="color:white">Blockchain Courses</span>
 
