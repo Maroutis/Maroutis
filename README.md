@@ -44,12 +44,15 @@
 | SteadeFi     |  0   |   5    |     2 Low     | [Link](https://www.codehawks.com/report/clo38mm260001la08daw5cbuf) |
 | The Standard |  1   |   3    |     1 Low     | [Link](https://www.codehawks.com/report/clql6lvyu0001mnje1xpqcuvl) |
 
+---
+# You can find some of my private audits [in the link](https://github.com/Maroutis/Private-audits)
+---
 # <span style="color:white">Secureum RACE results</span>
 
 |  RACE   | Leaderboard  | Score |
 | :-----: | ------------ | ----- |
 | RACE-22 | 6 out of 175 | 6.3/8 |
-
+| RACE-32 | 1 out of 69  |  7/8  |
 ---
 
 # <span style="color:white">Below are my hackathons contributions
