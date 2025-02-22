@@ -36,20 +36,17 @@
 |          65            |  25  |   40   |
 
 
-## <span style="color:white">Public Security Audit Contests</span>
+## <span style="color:white">Some Recent Public Security Audit Contests</span>
 
 | Contest                | High | Medium | Results Link                                                                                   | Highlights                                   |
 | ---------------------- | ---- | ------ | ---------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| Concrete               | 3    | 6      | [Link](https://code4rena.com/audits/2024-11-concrete)                                          |                                             |
-| Project                | 0    | 0      | [Link](https://codehawks.cyfrin.io/c/2024-11-one-world/results?lt=contest&page=2&sc=reward)    | Solo Low finding                             |
+| Concrete               | 3    | 6      | [Link](https://code4rena.com/audits/2024-11-concrete)                                          |                                             |                            |
 | Alchemix Transmuter    | 0    | 1      | [Link](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=4&sc=reward)     |                                             |
 | Debita Finance V3      | 0    | 2      | [Link](https://audits.sherlock.xyz/contests/627?filter=results)                                |                                             |
 | Renzo                  | 1    | 2      | [Link](https://code4rena.com/audits/2024-04-renzo)                                             |                                             |
 | DYAD                   | 5    | 1      | [Link](https://code4rena.com/audits/2024-04-dyad)                                              |                                             |
 | Curves (participated as DarkTower)| 2    | 3      | [Link](https://code4rena.com/audits/2024-01-curves)                                            | Grade A QA + Grade A Analysis               |
 | Steadefi (participated as SupaRoutis)  | 0    | 5      | [Link](https://codehawks.cyfrin.io/c/2023-10-SteadeFi/results?lt=contest&page=2&sc=reward)     |                                             |
-| Notional Update #4     | 0    | 1      | [Link](https://audits.sherlock.xyz/contests/119/report)                                        |                                             |
-
 
 ---
 
