@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Maroutis</h1>
-<h3 align="center">I'm a Smart Contract Security Researcher & Quant Developer</h3>
+<h3 align="center">I'm a Smart Contract Security Researcher/Blockchain developer & Quant Developer</h3>
 
 ## 🙋‍♂️ About Me
 
